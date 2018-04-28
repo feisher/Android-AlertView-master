@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 group='com.yusong.feisher'
-version = "1.0.5"
+version = "1.0.7"
 
 android {
     compileSdkVersion 27
