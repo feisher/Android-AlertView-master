@@ -1,4 +1,3 @@
-[![Android Gems](http://www.android-gems.com/badge/saiwu-bigkoo/Android-AlertView.svg?branch=master)](http://www.android-gems.com/lib/saiwu-bigkoo/Android-AlertView)
 
 # Android-AlertView
 仿iOS的AlertViewController
@@ -9,7 +8,7 @@
 
 demo是用Module方式依赖，你也可以使用gradle 依赖:
 ```java
-   compile 'com.bigkoo:alertview:1.0.3'
+    稍后提供
 ```
 
 ### config in java code
