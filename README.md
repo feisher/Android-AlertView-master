@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/feisher/Android-AlertView-master.svg)](https://jitpack.io/#feisher/Android-AlertView-master)
 
 # Android-AlertView
 仿iOS的AlertViewController
@@ -8,7 +9,7 @@
 
 demo是用Module方式依赖，你也可以使用gradle 依赖:
 ```java
-    稍后提供
+    implementation 'com.github.feisher:Android-AlertView-master:1.0.5'
 ```
 
 ### config in java code
