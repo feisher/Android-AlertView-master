@@ -9,7 +9,7 @@
 
 demo是用Module方式依赖，你也可以使用gradle 依赖:
 ```java
-    implementation 'com.github.feisher:Android-AlertView-master:1.0.5'
+    implementation 'com.github.feisher:Android-AlertView-master:1.0.7'
 ```
 
 ### config in java code
